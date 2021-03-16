@@ -191,7 +191,7 @@ Automatic merge failed; fix conflicts and then commit the result.
    
 11. Agora repita o item 9, mas prossiga com a mesclagem manual (Editando B.java). Todas as funções implementadas são necessárias. Explique o seu procedimento
 ```
-Como uso o Visual Studio Code ele entrega visualmente o conflito do merge:
+O Visual Studio Code entrega visualmente o conflito do merge:
 ```
 ![merge visualizer](/capmerge.png)
 ```
